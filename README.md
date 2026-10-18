@@ -104,5 +104,4 @@ git push
 
 ## Notes
 
-- Windows Terminal's `settings.json` can contain personal paths. Review it before making the repo public.
 - The Windows Terminal path above is for the Store/winget install. The preview or unpackaged builds use a different folder.
